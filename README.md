@@ -2,7 +2,7 @@
 
 This project analyzes tweets related to ChatGPT by extracting hashtags and performing sentiment analysis. It provides insights into trending hashtags and the overall sentiment of the Twitter discourse.
 
-## 📌 Table of Contents
+## Table of Contents
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
@@ -12,12 +12,12 @@ This project analyzes tweets related to ChatGPT by extracting hashtags and perfo
 
 ## Features
 
-- **Hashtag Extraction**: Uses regex to extract hashtags from tweet texts.
-- **Hashtag Frequency Analysis**: Counts and ranks the most used hashtags.
-- **Top 5 Hashtag Visualization**: Displays the top 5 hashtags in a bar chart.
-- **Sentiment Analysis**: Utilizes TextBlob to classify tweet sentiments as positive, negative, or neutral.
-- **Sentiment Pie Chart**: Visualizes sentiment distribution using a pie chart.
-- **CamelCase Split Utility**: Converts CamelCase text like `GoingHomeTomorrow` to `Going Home Tomorrow`.
+- **Hashtag Extraction** - Uses regex to extract hashtags from tweet texts.
+- **Hashtag Frequency Analysis** - Counts and ranks the most used hashtags.
+- **Top 5 Hashtag Visualization** - Displays the top 5 hashtags in a bar chart.
+- **Sentiment Analysis** - Utilizes TextBlob to classify tweet sentiments as positive, negative, or neutral.
+- **Sentiment Pie Chart** - Visualizes sentiment distribution using a pie chart.
+- **CamelCase Split Utility** - Converts CamelCase text like `GoingHomeTomorrow` to `Going Home Tomorrow`.
 
 ## Tech Stack
 
@@ -59,6 +59,7 @@ Ensure the CSV is placed in the appropriate directory or update the script with 
 
 - Bar chart of top 5 hashtags
 - Pie chart of sentiment distribution
+  
 
 > Built with ❤️ using Python and open-source libraries.
 
